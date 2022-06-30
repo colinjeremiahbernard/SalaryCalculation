@@ -1,0 +1,31 @@
+.container {
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 30px;
+    color: brown;
+}
+#salarioBruto {
+    background-color: yellow;
+}
+
+#salarioLiquido {
+    background-color: lawngreen;
+}
+.btn {
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.btn:hover {
+    background-color: gold;
+    color: blue;
+    transition: 2s;
+    text-transform: uppercase;
+}
+.form-control {
+    font-size: 20px;
+    color: maroon;
+    text-align: center;
+    font-weight: bolder;
+}
